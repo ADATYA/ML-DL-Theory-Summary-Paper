@@ -1,7 +1,7 @@
 # Research-Paper-
 All of the research related work is stored in this file.
 
-# What is Superviesed and Unsupervised Algo/Model Lists:
+## What is Superviesed and Unsupervised Algo/Model Lists:
 
 ### Supervised Models:
   * CNN
