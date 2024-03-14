@@ -94,7 +94,8 @@
    
    In Conclusion:<br>
    
-   J48 is a powerful decision tree algorithm that provides a clear decision-making process for classification tasks. It offers advantages like interpretability and efficiency but requires careful consideration of overfitting and data quality.
+   J48 is a powerful decision tree algorithm that provides a clear decision-making process for classification tasks. It offers advantages like interpretability and efficiency but requires careful consideration of overfitting and data quality. [Ref:Google Gemini]
   
    Some Image of C4.5(J48) Algorithm for Better understand the flow control:<br>
    
+![image](https://github.com/ADATYA/Research-Paper-/assets/97549431/48ea1cfd-e00c-4b1e-8ce0-13224a58b5f0)
