@@ -64,7 +64,7 @@
             * It selects the feature (attribute) that best separates the data points into classes. This is determined using a measure called information gain (or gain ratio).<br>
             * The feature with the highest information gain becomes the splitting criterion at that node.<br>
             * The data is divided into subsets based on the values of the chosen feature, creating child nodes.<br>
-      **The process continues recursively until all data points are classified or a stopping criterion (e.g., maximum depth, minimum number of instances per node) is met.<br>
+            * The process continues recursively until all data points are classified or a stopping criterion (e.g., maximum depth, minimum number of instances per node) is met.<br>
    
    3. Classification: <br>
       * To classify a new data point (not part of the training data):<br>
