@@ -34,7 +34,7 @@
   * k-means Clustering
   * DBSCAN Clustering
   * Gaussian Matrix
-  * BRICH
+  * BIRCH
   * Mean shift
   * Afiniting propagation
   * Agglometrativv Hierarchy clustering
