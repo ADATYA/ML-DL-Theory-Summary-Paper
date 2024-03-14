@@ -67,9 +67,9 @@
       **The process continues recursively until all data points are classified or a stopping criterion (e.g., maximum depth, minimum number of instances per node) is met.<br>
    
    3. Classification: <br>
-      ** To classify a new data point (not part of the training data):<br>
-           * You start at the root node and follow the branches based on the values of the features in the new data point.<br>
-           * You traverse the tree until you reach a leaf node, which represents the predicted class label.<br>
+      * To classify a new data point (not part of the training data):<br>
+      * You start at the root node and follow the branches based on the values of the features in the new data point.<br>
+      * You traverse the tree until you reach a leaf node, which represents the predicted class label.<br>
    
    4. Key Concepts:<br>
       
