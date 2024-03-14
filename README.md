@@ -1,11 +1,9 @@
-# Research-Paper- Machine Learning and Deep Learning
-[All of the research-related work is stored in this file.]
-
+# Research-Paper- Machine Learning and Deep Learning: <br>
  * ML Source GFG: https://www.geeksforgeeks.org/machine-learning/?ref=shm
  * Machine Learning Mathematics: https://www.geeksforgeeks.org/machine-learning-mathematics/?ref=lbp
  * Java Tutorial Points: https://www.javatpoint.com/machine-learning
 
-## What is Supervised and Unsupervised Algorithm/Model Lists At a glance:
+## What are Supervised and Unsupervised Algorithm/Model Lists At a glance:
 
  ![image](https://github.com/ADATYA/Research-Paper-/assets/97549431/cf2af118-0a47-44ef-98ac-c571d3fd2fcd)
  
@@ -15,10 +13,9 @@
   ### Classification Models:
   * CNN
   * Support Vector Machine (SVM)
-  * J48
+  * J48(C4.5) / Decision Tree
   * Naive Bayes
   * Logistic Regression
-  * Decision Tree
   * Random Forest
   * KNN (K-Nearest Neighbors)
   ### Regression Models:
