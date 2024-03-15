@@ -103,11 +103,12 @@
    ![image](https://github.com/ADATYA/ML-DL-Theory-Summary/assets/97549431/17609030-827a-4ef6-8068-ebb2717ea27d)<b>[Ref.ResearchGate]
 
  <hr>
-## Naive Bayes Algorithm :<br>
-Refarence:<br>
-  * GFG : https://www.geeksforgeeks.org/naive-bayes-classifiers/<br>
-  * Turing : https://www.turing.com/kb/an-introduction-to-naive-bayes-algorithm-for-beginners <br>
-  * Tutorials : https://youtu.be/GBMMtXRiQX0?si=R71O6sPw-7CQdw4m (Youtube)<br>
+   
+   ## Naive Bayes Algorithm :<br>
+   Refarence:<br>
+      GFG : https://www.geeksforgeeks.org/naive-bayes-classifiers/<br>
+      Turing : https://www.turing.com/kb/an-introduction-to-naive-bayes-algorithm-for-beginners <br>
+      Tutorials : https://youtu.be/GBMMtXRiQX0?si=R71O6sPw-7CQdw4m (Youtube)<br>
   
   ![image](https://github.com/ADATYA/ML-DL-Theory-Summary/assets/97549431/b035355e-df0a-42ff-8b3f-063a7caeae24)
 
@@ -125,7 +126,7 @@ Naive Bayes is a versatile and efficient machine learning algorithm for classifi
   * Training: Naive Bayes learns from a labeled dataset where each data point has a known class label. It calculates the probability of each feature value occurring for each class.<br>
   * Classification: When presented with a new, unlabeled data point, Naive Bayes applies Bayes' theorem to calculate the probability of the data point belonging to each possible class. It then assigns the class with the highest probability.<br>
  
-    3. Example:<br>
+3. Example:<br>
 
    Imagine classifying emails as spam or not spam. Features might include word frequency, presence of certain keywords, or capital letter usage.<br>
    Naive Bayes would calculate the probability of each feature (e.g., "free" appearing in an email) occurring in both spam and non-spam emails. <br>
