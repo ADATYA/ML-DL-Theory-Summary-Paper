@@ -98,12 +98,15 @@
 ![image](https://github.com/ADATYA/Research-Paper-/assets/97549431/48ea1cfd-e00c-4b1e-8ce0-13224a58b5f0)
 
    ## J48 Algorithm image:
-   ![image](https://github.com/ADATYA/ML-DL-Theory-Summary/assets/97549431/0e2c7bef-0853-44fc-b376-f58233ed02cb)
+   ![image](https://github.com/ADATYA/ML-DL-Theory-Summary/assets/97549431/17609030-827a-4ef6-8068-ebb2717ea27d)[Ref.ResearchGeat]
 
-## 
+
+## Naive Bayes Algorithm :<br>
 Refarence:<br>
   * GFG : https://www.geeksforgeeks.org/naive-bayes-classifiers/<br>
-  * Turing : https://www.turing.com/kb/an-introduction-to-naive-bayes-algorithm-for-beginners <br> <br>
+  * Turing : https://www.turing.com/kb/an-introduction-to-naive-bayes-algorithm-for-beginners <br>
+  * Tutorials : https://youtu.be/GBMMtXRiQX0?si=R71O6sPw-7CQdw4m (Youtube)<br>
+  
   ![image](https://github.com/ADATYA/ML-DL-Theory-Summary/assets/97549431/b035355e-df0a-42ff-8b3f-063a7caeae24)
 
 
