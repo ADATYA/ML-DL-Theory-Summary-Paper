@@ -96,3 +96,51 @@
    Some Image of C4.5(J48) Algorithm for Better understand the flow control:<br>
    
 ![image](https://github.com/ADATYA/Research-Paper-/assets/97549431/48ea1cfd-e00c-4b1e-8ce0-13224a58b5f0)
+
+   ## J48 Algorithm image:
+   ![image](https://github.com/ADATYA/ML-DL-Theory-Summary/assets/97549431/0e2c7bef-0853-44fc-b376-f58233ed02cb)
+
+## 
+Refarence:<br>
+  * GFG : https://www.geeksforgeeks.org/naive-bayes-classifiers/<br>
+  * Turing : https://www.turing.com/kb/an-introduction-to-naive-bayes-algorithm-for-beginners <br> <br>
+  ![image](https://github.com/ADATYA/ML-DL-Theory-Summary/assets/97549431/b035355e-df0a-42ff-8b3f-063a7caeae24)
+
+
+Naive Bayes is a family of supervised learning algorithms based on Bayes' theorem. It's a popular choice for classification tasks due to its simplicity, efficiency, and surprisingly good performance in many scenarios.
+
+  1.Key Concepts:<br>
+
+  * Classification: Assigning data points (emails, images, etc.) to predefined categories (spam/not spam, cat/dog).<br>
+  * Probabilistic: Leverages probability calculations to determine the most likely class for a new data point.<br>
+  * Bayes' Theorem: A mathematical formula for calculating conditional probability (the probability of event B occurring given that event A has already happened).<br>
+  * Conditional Independence Assumption: Naive Bayes assumes that features (attributes of a data point) are independent of each other given the class label. While this assumption isn't always strictly true, it often works well in practice.<br><br>
+2.How Naive Bayes Works:<br>
+
+  * Training: Naive Bayes learns from a labeled dataset where each data point has a known class label. It calculates the probability of each feature value occurring for each class.<br>
+  * Classification: When presented with a new, unlabeled data point, Naive Bayes applies Bayes' theorem to calculate the probability of the data point belonging to each possible class. It then assigns the class with the highest probability.<br>
+ 
+    3. Example:<br>
+
+   Imagine classifying emails as spam or not spam. Features might include word frequency, presence of certain keywords, or capital letter usage.<br>
+   Naive Bayes would calculate the probability of each feature (e.g., "free" appearing in an email) occurring in both spam and non-spam emails. <br>
+   Then, for a new email, it would combine these probabilities using Bayes' theorem to determine the most likely class (spam or not spam).<br>
+
+  4. Advantages of Naive Bayes:<br>
+  
+   * Simple and easy to implement: Makes it a good choice for beginners.<br>
+   * Fast: Training and prediction are computationally efficient.<br>
+   * Effective for high-dimensional data: Handles data with many features well.<br>
+   * Performs well with limited data: Can be effective even when training data is scarce.<br><br>
+5. Disadvantages of Naive Bayes:<br>
+
+  * Conditional independence assumption: May lead to inaccuracies if features are highly correlated.<br>
+  * Sensitivity to outliers: Can be skewed by extreme values in the data.<br><br>
+6. Applications of Naive Bayes in Machine Learning:<br>
+
+  * Spam Filtering: Identifying spam emails based on keywords, sender information, etc.<br>
+  * Text Classification: Classifying documents or emails by topic (news, sports, business).<br>
+  * Sentiment Analysis: Determining the positive, negative, or neutral sentiment of text.<br>
+  * Recommendation Systems: Recommending products or content based on user preferences.<br>
+  * Fraud Detection: Identifying suspicious financial transactions.<br>
+    
