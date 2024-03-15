@@ -98,7 +98,7 @@
 ![image](https://github.com/ADATYA/Research-Paper-/assets/97549431/48ea1cfd-e00c-4b1e-8ce0-13224a58b5f0)
 
    ## J48 Algorithm image:
-   ![image](https://github.com/ADATYA/ML-DL-Theory-Summary/assets/97549431/17609030-827a-4ef6-8068-ebb2717ea27d)[Ref.ResearchGeat]
+   ![image](https://github.com/ADATYA/ML-DL-Theory-Summary/assets/97549431/17609030-827a-4ef6-8068-ebb2717ea27d)<b>[Ref.ResearchGate]
 
 
 ## Naive Bayes Algorithm :<br>
