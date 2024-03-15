@@ -39,11 +39,13 @@
   * Topic Modeling
   * Clustering
 
+<hr>
+
 ## C4.5(J48) Decision Tree Algorithm :
-  * References:<br>
-    1.https://medium.com/@nilimakhanna1/j48-classification-c4-5-algorithm-in-a-nutshell-24c50d20658e<br>
-    2.https://www.researchgate.net/figure/An-architecture-of-the-proposed-algorithm-using-the-IDS-approach_fig5_319716463<brr>
-  * Introduce J48 model :<br>
+  1. References:<br>
+              * https://medium.com/@nilimakhanna1/j48-classification-c4-5-algorithm-in-a-nutshell-24c50d20658e<br>
+              * https://www.researchgate.net/figure/An-architecture-of-the-proposed-algorithm-using-the-IDS-approach_fig5_319716463<br>
+  2. Introduce J48 model :<br>
     We're living in the era of Ai and it was very important for our daily life. Now a single day we cannot live without helping Ai. But there is a question, how does this Ai work why it is important and what is the purpose of working this? So now we discuss some algorithms, the backbone of Ai , there 
     are many types of algorithms for solving problems in real life.<br>
     J48 is an open-source implementation of the C4.5 decision tree algorithm, often used in the WEKA data mining tool.
@@ -91,7 +93,7 @@
    
    In Conclusion:<br>
    
-   J48 is a powerful decision tree algorithm that provides a clear decision-making process for classification tasks. It offers advantages like interpretability and efficiency but requires careful consideration of overfitting and data quality. [Ref:Google Gemini]
+   J48 is a powerful decision tree algorithm that provides a clear decision-making process for classification tasks. It offers advantages like interpretability and efficiency but requires careful consideration of overfitting and data quality. <b>[Ref:Google Gemini]
   
    Some Image of C4.5(J48) Algorithm for Better understand the flow control:<br>
    
@@ -100,7 +102,7 @@
    ## J48 Algorithm image:
    ![image](https://github.com/ADATYA/ML-DL-Theory-Summary/assets/97549431/17609030-827a-4ef6-8068-ebb2717ea27d)<b>[Ref.ResearchGate]
 
-
+ <hr>
 ## Naive Bayes Algorithm :<br>
 Refarence:<br>
   * GFG : https://www.geeksforgeeks.org/naive-bayes-classifiers/<br>
@@ -111,7 +113,7 @@ Refarence:<br>
 
 
 Naive Bayes is a family of supervised learning algorithms based on Bayes' theorem. It's a popular choice for classification tasks due to its simplicity, efficiency, and surprisingly good performance in many scenarios.
-
+Naive Bayes is a versatile and efficient machine learning algorithm for classification tasks. It's a solid choice for beginners due to its ease of use, but be mindful of its limitations, particularly when feature independence is unlikely 
   1.Key Concepts:<br>
 
   * Classification: Assigning data points (emails, images, etc.) to predefined categories (spam/not spam, cat/dog).<br>
@@ -146,4 +148,7 @@ Naive Bayes is a family of supervised learning algorithms based on Bayes' theore
   * Sentiment Analysis: Determining the positive, negative, or neutral sentiment of text.<br>
   * Recommendation Systems: Recommending products or content based on user preferences.<br>
   * Fraud Detection: Identifying suspicious financial transactions.<br>
-    
+<hr>
+
+
+
